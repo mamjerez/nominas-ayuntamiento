@@ -1,0 +1,5245 @@
+[
+  {
+    "Orgánico": "00",
+    "Programa": 49111,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-radio",
+    "Euros": "103486,51"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 49111,
+    "Económico": 15000,
+    "Descripción": "Productividad-Servicio de Radio y TV mun",
+    "Euros": "1802,33"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 49111,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Servicio de Radio y TV m",
+    "Euros": "4054,05"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 49111,
+    "Económico": 16204,
+    "Descripción": "Acción social-Servicio de Radio y TV mun",
+    "Euros": "9538,55"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 10000,
+    "Descripción": "Retrib.basicas y otras remuner. Altos ca",
+    "Euros": "60417,55"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1- Servicios Centrale",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 12004,
+    "Descripción": "Sueldos del grupo C2 personal funcionari",
+    "Euros": "3271,95"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E- Servicos Centrales",
+    "Euros": "747,74"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Órganos de",
+    "Euros": "1462,67"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 12100,
+    "Descripción": "Complemento destino personal funcionario",
+    "Euros": "2804,75"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 12101,
+    "Descripción": "Complemento específico personal funciona",
+    "Euros": "4331,92"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 12103,
+    "Descripción": "Otros complementos personal funcionario-",
+    "Euros": "268,83"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 13000,
+    "Descripción": "Retrib.basicas personal lab. Fijo-Órgano",
+    "Euros": "157,53"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 13002,
+    "Descripción": "Otras remuner. Personal lab. Fijo-Órgano",
+    "Euros": "200,74"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Órgano",
+    "Euros": "8928,07"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 15000,
+    "Descripción": "Productividad-Órganos de Gobierno",
+    "Euros": "1033,69"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Servicios Centrales",
+    "Euros": "5045,77"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91210,
+    "Económico": 16204,
+    "Descripción": "Acción social-Órganos de Gobierno",
+    "Euros": "2033,59"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 91213,
+    "Económico": 11000,
+    "Descripción": "Retribuciones básicas personal eventual-",
+    "Euros": "32961,76"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 12000,
+    "Descripción": "Sueldos del grupo A1 personal funcionari",
+    "Euros": "4514,13"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 12001,
+    "Descripción": "Sueldos del grupo A2 personal funcionari",
+    "Euros": "1271,22"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 12003,
+    "Descripción": "Sueldos del grupo C1 personal funcionari",
+    "Euros": "1955,5"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-SecretarÍa",
+    "Euros": "3345,5"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 12100,
+    "Descripción": "Complemento destino personal funcionario",
+    "Euros": "5874,46"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 12101,
+    "Descripción": "Complemen específico personal funcionari",
+    "Euros": "14291,64"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Secret",
+    "Euros": "6193,23"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 15000,
+    "Descripción": "Productividad-SecretarÍa General",
+    "Euros": "599,93"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 15100,
+    "Descripción": "Secretaría General. Gratificaciones",
+    "Euros": "923,24"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92011,
+    "Económico": 16204,
+    "Descripción": "Acción social-SecretarÍa General",
+    "Euros": "606,77"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92061,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas personal laboral f",
+    "Euros": "5898,91"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92061,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones personal laboral fi",
+    "Euros": "7838,94"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92061,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Imagen",
+    "Euros": "22616,02"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92061,
+    "Económico": 15000,
+    "Descripción": "Productividad-Imagen y Diseño",
+    "Euros": "2247,73"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92061,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Imagen y Diseño",
+    "Euros": "4,16"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92061,
+    "Económico": 16204,
+    "Descripción": "Acción social.-Imagen y Diseño",
+    "Euros": "3731,64"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92612,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Comuni",
+    "Euros": "41418,74"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92612,
+    "Económico": 15000,
+    "Descripción": "Productividad",
+    "Euros": "656,69"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92612,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones. Comunicación, Imagén y",
+    "Euros": "84,8"
+  },
+  {
+    "Orgánico": "00",
+    "Programa": 92612,
+    "Económico": 16204,
+    "Descripción": "Acción social-Comunicación, Imagén y Pro",
+    "Euros": "673,32"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1- Presidencia",
+    "Euros": "4473,41"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Servicios generales",
+    "Euros": "847,01"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Servicios generales",
+    "Euros": "728,31"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 12006,
+    "Descripción": "Trienios-Servicios generales Area Presid",
+    "Euros": "1369,86"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Servicios general",
+    "Euros": "3787,99"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Servicios general",
+    "Euros": "10136,93"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 12103,
+    "Descripción": "Otros complementos - Servicios generales",
+    "Euros": "174,79"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Serv.",
+    "Euros": "18894,59"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv Grles Área Presidenci",
+    "Euros": "3202,76"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones",
+    "Euros": "3238,6"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 91212,
+    "Económico": 16204,
+    "Descripción": "Acción social-Serv Grles Área Presidenci",
+    "Euros": "776,76"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 - Asesoría Jurídica",
+    "Euros": "2842,6"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 12004,
+    "Descripción": "Sueldos grupo C2 personal funcionario-As",
+    "Euros": "1633,75"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Asesoría J",
+    "Euros": "1201,32"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino p. Funcionario-As",
+    "Euros": "2278,27"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 12101,
+    "Descripción": "Complem específic personal funcionario-A",
+    "Euros": "3656,35"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Asesoría Jurídica",
+    "Euros": "177,4"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Asesor",
+    "Euros": "7188,55"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 15000,
+    "Descripción": "Productividad-Asesoría Jurídica Gral",
+    "Euros": "1220,52"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Asesoría Jurídica Genera",
+    "Euros": "291,28"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92013,
+    "Económico": 16204,
+    "Descripción": "Acción social-Asesoría Jurídica Gral",
+    "Euros": "1397,35"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1-Servicio de Asisten",
+    "Euros": "1497,89"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Servicio Asis. Jurí",
+    "Euros": "718,51"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 12006,
+    "Descripción": "Trienios-Servicio de Asistencia Jurídica",
+    "Euros": "910,58"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Servicio de Asist",
+    "Euros": "1713,32"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Servicio de Asist",
+    "Euros": "6535,85"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 13000,
+    "Descripción": "Retribuciones Basicas",
+    "Euros": "1061,97"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 13002,
+    "Descripción": "Otras Remuneraciones",
+    "Euros": "1496,03"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Servic",
+    "Euros": "15642,81"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 15000,
+    "Descripción": "Productividad-Servicio de Asistencia Jur",
+    "Euros": "5946,9"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Servicio de Asistencia J",
+    "Euros": "2735,19"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92014,
+    "Económico": 16204,
+    "Descripción": "Acción social-Servicio de Asistencia Jur",
+    "Euros": "420,2"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2-Serv. Inform. inter",
+    "Euros": "211,01"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 12006,
+    "Descripción": "Trienios-Serv. Inform. internos",
+    "Euros": "99,12"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Serv. Inform. int",
+    "Euros": "160,32"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Serv. Inform. int",
+    "Euros": "365,85"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla--Serv.",
+    "Euros": "164379,02"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv. Inform. internos",
+    "Euros": "12517,62"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones. Serv. inform. internos",
+    "Euros": "46,96"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92030,
+    "Económico": 16204,
+    "Descripción": "Acción social-Serv. Inform. internos",
+    "Euros": "5365,75"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Atencio. Ciudadania",
+    "Euros": "2790,36"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Atencio. Ciudadania",
+    "Euros": "6716,59"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Atencio. Ciudadania",
+    "Euros": "3037,13"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 12006,
+    "Descripción": "Trienios-Atencion Ciudadania Modernizaci",
+    "Euros": "2983,47"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Aten. Ciudadania",
+    "Euros": "6847,6"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Aten. Ciudadania",
+    "Euros": "12684,67"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Atencion Ciudadania M",
+    "Euros": "1973,26"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Atenc. Ciudadania",
+    "Euros": "3474,84"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Atencion Ciudadania",
+    "Euros": "4433,71"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Aten.",
+    "Euros": "24007,88"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 15000,
+    "Descripción": "Productividad-Atencion Ciudadania Modern",
+    "Euros": "200,7"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Atencion Ciudadania Mode",
+    "Euros": "1092,19"
+  },
+  {
+    "Orgánico": "01",
+    "Programa": 92510,
+    "Económico": 16204,
+    "Descripción": "Acción social-Atencion Ciudadania Modern",
+    "Euros": "6528,95"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 - Politicas Activas",
+    "Euros": "954,65"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 12006,
+    "Descripción": "Trienios-Políticas Activas de Empleo",
+    "Euros": "317,96"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino personal funciona",
+    "Euros": "465,6"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Políticas Activ",
+    "Euros": "786,4"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Políticas Activas",
+    "Euros": "963,93"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Políticas Activas d",
+    "Euros": "1126,34"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla--Polít",
+    "Euros": "32931,37"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 15000,
+    "Descripción": "Productividad--Políticas Activas de Empl",
+    "Euros": "2104,49"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones--Políticas Activas de Em",
+    "Euros": "1030,77"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24120,
+    "Económico": 16204,
+    "Descripción": "Acción social-Políticas Activas de Emple",
+    "Euros": "2313,45"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24140,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de Plantilla-Promoc",
+    "Euros": "27395,98"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24140,
+    "Económico": 15000,
+    "Descripción": "Productividad-Promoción  Emprendedores",
+    "Euros": "608,03"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24140,
+    "Económico": 15100,
+    "Descripción": "Gratificación-Promoción Emprendedores",
+    "Euros": "51,4"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 24140,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Promoción  Emprendedores",
+    "Euros": "784,91"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E - Gestión administra",
+    "Euros": "1493,33"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 12006,
+    "Descripción": "Trienios. G. Administ. Impulso económico",
+    "Euros": "298,49"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 12100,
+    "Descripción": "Complemento de Destino. G. Administ. Imp",
+    "Euros": "799,85"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 12101,
+    "Descripción": "Complemento específico. G. Administ. Imp",
+    "Euros": "1581,71"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Gestión Adtva Impuls",
+    "Euros": "32,57"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 13000,
+    "Descripción": "Retribuc básicas p. Laboral fijo-G. Admi",
+    "Euros": "910,72"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones pers laboral fijo-G",
+    "Euros": "1288,91"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-G. Adm",
+    "Euros": "24196,04"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones",
+    "Euros": "5,15"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43311,
+    "Económico": 16204,
+    "Descripción": "Acción social.-G. Administ. Impulso econ",
+    "Euros": "1262,23"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43313,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Unidad",
+    "Euros": "12331,42"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43313,
+    "Económico": 15000,
+    "Descripción": "Productividad - Unidad de ventanilla",
+    "Euros": "1595,44"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43313,
+    "Económico": 15100,
+    "Descripción": "Gratificación-Unidad de Ventanilla",
+    "Euros": "8,33"
+  },
+  {
+    "Orgánico": "02",
+    "Programa": 43313,
+    "Económico": 16204,
+    "Descripción": "Acción social-Unidad de Ventanilla Empre",
+    "Euros": "781,81"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12000,
+    "Descripción": "Sueldos grupo A1 person funcionario-Serv",
+    "Euros": "3327,17"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Servicios general",
+    "Euros": "2597,54"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12003,
+    "Descripción": "Sueldos grupo C1 person funcionario-Serv",
+    "Euros": "3910,42"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12004,
+    "Descripción": "Sueldos grupo C2 person funcionario-Serv",
+    "Euros": "4035,84"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Ser. Grles. Administ",
+    "Euros": "2709,97"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Serv Grles",
+    "Euros": "3654,66"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12100,
+    "Descripción": "Complemento destino pers Funcionario-Ser",
+    "Euros": "9313,49"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12101,
+    "Descripción": "Complem específico perso funcionario-Ser",
+    "Euros": "20643,17"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 12103,
+    "Descripción": "Otros complementos - Servicios generales",
+    "Euros": "639,8"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 13000,
+    "Descripción": "Retribuciones basicas pnal.laboral fijo-",
+    "Euros": "1010,37"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 13002,
+    "Descripción": "Otras remunerac person laboral fijo-Serv",
+    "Euros": "1107,74"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Serv G",
+    "Euros": "62592,86"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv Grles Admon de Person",
+    "Euros": "6699,65"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Serv Grles Admon de Pers",
+    "Euros": "8257,6"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92020,
+    "Económico": 16204,
+    "Descripción": "Acción social-Serv Grles Admon de Person",
+    "Euros": "5219,16"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92021,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Formac",
+    "Euros": "6057,17"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92021,
+    "Económico": 15000,
+    "Descripción": "Productividad-Formación Interna",
+    "Euros": "640,47"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92021,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Formación interna",
+    "Euros": "11,54"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92021,
+    "Económico": 16204,
+    "Descripción": "Acción social-Formación Interna",
+    "Euros": "554,21"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 12000,
+    "Descripción": "Sueldos del grupo A1 personal funcionari",
+    "Euros": "2893,3"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 12004,
+    "Descripción": "Sueldos del grupo C2 personal funcionari",
+    "Euros": "816,87"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Prev Riesg",
+    "Euros": "1141,62"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 12100,
+    "Descripción": "Complemento destino Funcionario-Prev Rie",
+    "Euros": "2415,38"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 12101,
+    "Descripción": "Complem específico funcionario-Prev Ries",
+    "Euros": "4389,75"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Prev Riesgos Labor",
+    "Euros": "1037,86"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Prev Riesgos Labora",
+    "Euros": "1080,08"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Prev R",
+    "Euros": "16907,6"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 15000,
+    "Descripción": "Productividad-Prev Riesgos Laborales",
+    "Euros": "673,96"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones - Prev Riesgos Laborales",
+    "Euros": "1453,81"
+  },
+  {
+    "Orgánico": "03",
+    "Programa": 92022,
+    "Económico": 16204,
+    "Descripción": "Acción social-Prev Riesgos Laborales",
+    "Euros": "812,65"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92012,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1-Secret.Intervención",
+    "Euros": "193,34"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92012,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Secret.Intervención",
+    "Euros": "816,88"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92012,
+    "Económico": 12006,
+    "Descripción": "Trienios-Secretar.Intervención-ELA",
+    "Euros": "394,34"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92012,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Secretar.Interven",
+    "Euros": "688,54"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92012,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Secretar.Interven",
+    "Euros": "2088,83"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92012,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Secret",
+    "Euros": "6694,06"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92012,
+    "Económico": 16204,
+    "Descripción": "Acción social-Secretaría-Intervención-EL",
+    "Euros": "600,27"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2. Administración Med",
+    "Euros": "9,29"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Administración Medi",
+    "Euros": "850,9"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 12006,
+    "Descripción": "Trienios-Administración Medio Rural",
+    "Euros": 337
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Administración Me",
+    "Euros": "475,17"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Administración Me",
+    "Euros": "717,59"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Admini",
+    "Euros": "4251,02"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 15000,
+    "Descripción": "Productividad-Administración Medio Rural",
+    "Euros": 175
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 15100,
+    "Descripción": "Gratificación-Administración Medio Rural",
+    "Euros": "4,14"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92040,
+    "Económico": 16204,
+    "Descripción": "Acción social-Administración Medio Rural",
+    "Euros": "888,85"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92041,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Desarr",
+    "Euros": "12253,51"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92041,
+    "Económico": 14300,
+    "Descripción": "Retribuciones otro personal-Desarr. del",
+    "Euros": "14733,33"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92041,
+    "Económico": 15000,
+    "Descripción": "Productividad-Desarr. del Medio Rural",
+    "Euros": "717,81"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92042,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Distri",
+    "Euros": "4908,88"
+  },
+  {
+    "Orgánico": "04",
+    "Programa": 92042,
+    "Económico": 16204,
+    "Descripción": "Acción social-Distrito Rural",
+    "Euros": "162,03"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1 - Igualdad y Salud",
+    "Euros": "2994,58"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Igualdad y Salud",
+    "Euros": "1298,77"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 - Igualdad y Salud",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12004,
+    "Descripción": "Sueldos G-C2 pers.func.-Igualdad Salud",
+    "Euros": "5706,63"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Igualdad",
+    "Euros": "746,12"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12006,
+    "Descripción": "Trienios pers. func.--Igualdad Salud",
+    "Euros": "3563,34"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12100,
+    "Descripción": "Complem. destino pers.func-Igualdad Salu",
+    "Euros": "6240,96"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12101,
+    "Descripción": "Complem. específ.pers.func-Igualdad Salu",
+    "Euros": "10634,6"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Igualdad y salud",
+    "Euros": "1657,74"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 13000,
+    "Descripción": "Retrib. básicas pers.lab.fijo-Igualdad S",
+    "Euros": "2017,73"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 13002,
+    "Descripción": "Otras remun.pers. lab. fijo-Igualdad Sal",
+    "Euros": "2224,69"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 13101,
+    "Descripción": "Indef. no fijos plantilla-IIgualdad Salu",
+    "Euros": "50011,92"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 15000,
+    "Descripción": "Productividad-Igualdad Salud",
+    "Euros": "4573,06"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Igualdad Salud",
+    "Euros": "704,81"
+  },
+  {
+    "Orgánico": "05",
+    "Programa": 23125,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Igualdad Salud",
+    "Euros": "4358,01"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E - Servicios Generale",
+    "Euros": "774,51"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino - Servicios Gener",
+    "Euros": "398,98"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 12101,
+    "Descripción": "Complemento específico - Servicios Gener",
+    "Euros": "760,45"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Serv.Grales.de Deport",
+    "Euros": "265,96"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Servicios Generale",
+    "Euros": "1061,97"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Servicios Generales",
+    "Euros": "1465,46"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Servic",
+    "Euros": "24831,91"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 15000,
+    "Descripción": "Productividad-Servicios Generales de Dep",
+    "Euros": "4345,37"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Deportes",
+    "Euros": "1383,16"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34010,
+    "Económico": 16204,
+    "Descripción": "Acción social-Servicios Generales de Dep",
+    "Euros": "1908,77"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34110,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas. Promoción y Forme",
+    "Euros": "1817,77"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34110,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones. Promoción y Formen",
+    "Euros": "2789,43"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34110,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Prom.y",
+    "Euros": "105588,96"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34110,
+    "Económico": 15000,
+    "Descripción": "Productividad-Prom.y fomento deporte",
+    "Euros": "3566,03"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34110,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones. Promoción y Formento de",
+    "Euros": "9370,98"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34110,
+    "Económico": 16204,
+    "Descripción": "Acción social-Prom.y fomento deporte",
+    "Euros": "13956,96"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E - Instalaciones y Pi",
+    "Euros": "5105,19"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 12006,
+    "Descripción": "Trienios - Instalaciones y Pistas",
+    "Euros": "92,04"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino - Instalaciones y",
+    "Euros": "2629,87"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 12101,
+    "Descripción": "Complemento específico- Instalaciones y",
+    "Euros": "5236,31"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Insta. y Pistas",
+    "Euros": "1572,18"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Instalaciones y Pi",
+    "Euros": "894,78"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Instalaciones y Pis",
+    "Euros": "1402,98"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Instal",
+    "Euros": "8946,19"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 15000,
+    "Descripción": "Productividad-Instalaciones y Pistas Dep",
+    "Euros": "93,33"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Instalaciones y Pistas D",
+    "Euros": "4067,95"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34210,
+    "Económico": 16204,
+    "Descripción": "Acción social-Instalaciones y Pistas Dep",
+    "Euros": "2863,6"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34211,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Piscin",
+    "Euros": "14548,19"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34211,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Piscinas Municipales",
+    "Euros": "1314,35"
+  },
+  {
+    "Orgánico": "06",
+    "Programa": 34211,
+    "Económico": 16204,
+    "Descripción": "Acción social-Piscinas Municipales",
+    "Euros": "2563,92"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 15320,
+    "Económico": 13000,
+    "Descripción": "Retrib. básicas pers. laboral fijo-Vias",
+    "Euros": "13365,4"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 15320,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones pers. laboral fijo-",
+    "Euros": "18369,9"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 15320,
+    "Económico": 13101,
+    "Descripción": "IIndefinidos no fijos de plantilla-Vias",
+    "Euros": "25818,38"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 15320,
+    "Económico": 15000,
+    "Descripción": "Productividad Vías Públicas",
+    "Euros": "1981,75"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 15320,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Vias Públicas",
+    "Euros": "2852,85"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 15320,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Vias Públicas",
+    "Euros": "5814,62"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 12005,
+    "Descripción": "Sueldo G-E personal funcionario-Cemente",
+    "Euros": "747,77"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 12100,
+    "Descripción": "Complemento destino persn. funcionario-C",
+    "Euros": "385,2"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 12101,
+    "Descripción": "Complemento destino personal funcionario",
+    "Euros": "766,86"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 12103,
+    "Descripción": "Otros complementos personal funcionario-",
+    "Euros": "329,66"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas personal laboral f",
+    "Euros": "2862,13"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones personal laboral fi",
+    "Euros": "4210,7"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 13100,
+    "Descripción": "Retribuciones personal laboral eventual-",
+    "Euros": "153,2"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Cement",
+    "Euros": "19073,2"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 15000,
+    "Descripción": "Productividad-Cementerio",
+    "Euros": "625,7"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Cementerio",
+    "Euros": "9664,55"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 16410,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Cementerio",
+    "Euros": "4669,76"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 32312,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2-Mantenm Centros Edu",
+    "Euros": "1114,04"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 32312,
+    "Económico": 12100,
+    "Descripción": "Complemento Destino-Mantenm Centros Educ",
+    "Euros": "637,21"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 32312,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico-Mantenm Centros E",
+    "Euros": "1224,43"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 32312,
+    "Económico": 13101,
+    "Descripción": "Indefinido no fijo en plantilla-Mantenim",
+    "Euros": "11525,34"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 32312,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Mantenm Centros Educativ",
+    "Euros": "85,56"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 32312,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Mantenm Centros Educativos",
+    "Euros": "501,78"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 12004,
+    "Descripción": "Sueldos del grupo C2 personal funcionari",
+    "Euros": "1682,04"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 12005,
+    "Descripción": "Sueldos del grupo E personal funcionario",
+    "Euros": "1487,23"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Serv Grles",
+    "Euros": "952,17"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino personal funciona",
+    "Euros": "1813,08"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 12101,
+    "Descripción": "Complemento específico personal funciona",
+    "Euros": "3288,59"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 12103,
+    "Descripción": "Otros complementos personal funcionario-",
+    "Euros": "177,4"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 13000,
+    "Descripción": "Retribuciones basicas pnal.laboral fijo-",
+    "Euros": "3194,04"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones personal laboral fi",
+    "Euros": "5855,52"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Serv G",
+    "Euros": "19921,22"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv Grles Infraestructura",
+    "Euros": "2422,7"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Servicios Generales de",
+    "Euros": "2338,37"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 45010,
+    "Económico": 16204,
+    "Descripción": "Acción social-Serv Grles Infraestructura",
+    "Euros": "2731,73"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 12004,
+    "Descripción": "Sueldos del grupo C2 personal funcionari",
+    "Euros": "1633,74"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Almacen y",
+    "Euros": "563,72"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 12100,
+    "Descripción": "Complemento destino personal funcionario",
+    "Euros": "892,95"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 12101,
+    "Descripción": "Complemen específico personal funcionari",
+    "Euros": "1840,43"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 12103,
+    "Descripción": "Otros complementos personal funcionario-",
+    "Euros": "0,12"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 13000,
+    "Descripción": "Retribuciones basicas pnal.laboral fijo-",
+    "Euros": "4870,09"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones person laboral fijo",
+    "Euros": "6971,19"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Almace",
+    "Euros": "18395,76"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 15000,
+    "Descripción": "Productividad-Almacen y Talleres",
+    "Euros": 475
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Almacén y Talleres",
+    "Euros": "3847,36"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92062,
+    "Económico": 16204,
+    "Descripción": "Acción social.-Almacen y Talleres",
+    "Euros": "3047,75"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92070,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Parque Movil",
+    "Euros": "1037,46"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92070,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Parque Movil",
+    "Euros": "1427,23"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92070,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Parque",
+    "Euros": "4863,35"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92070,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Parque Movil",
+    "Euros": "60,51"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 92070,
+    "Económico": 16204,
+    "Descripción": "Acción social-Parque móvil",
+    "Euros": "271,55"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1- Conservación de In",
+    "Euros": "1020,18"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 12006,
+    "Descripción": "Trienios P. Funcionario-Conserv. Instala",
+    "Euros": "463,5"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 12100,
+    "Descripción": "Complement.destino P. funcionarios-Conse",
+    "Euros": "724,75"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 12101,
+    "Descripción": "Complemento espedífico P.funcion.Conserv",
+    "Euros": "1758,6"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 13000,
+    "Descripción": "Rebribuciones básicas P. Lbral fijo-cons",
+    "Euros": "2933,87"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 13002,
+    "Descripción": "Otras remuner.persona lbral. fijo-Conser",
+    "Euros": "4118,96"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Conser",
+    "Euros": "7874,92"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Conservación de Instal",
+    "Euros": "2332,79"
+  },
+  {
+    "Orgánico": "07",
+    "Programa": 93311,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Conserva. Instalaciones Mu",
+    "Euros": "779,68"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1- Servicios Generale",
+    "Euros": "2996,39"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 - Servicios General",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 Personal Funcionari",
+    "Euros": "2405,4"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Serv.Grale",
+    "Euros": "1743,14"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 12100,
+    "Descripción": "Complemento de Destino Personal Funciona",
+    "Euros": "3900,84"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico Personal Funciona",
+    "Euros": "7207,2"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 12103,
+    "Descripción": "Otros Complementos Personal Funcionario-",
+    "Euros": "93,78"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 13000,
+    "Descripción": "Retribuciones Básicas Personal Laboral F",
+    "Euros": "2806,97"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 13002,
+    "Descripción": "Otras Remuneraciones Personal Laboral Fi",
+    "Euros": "4322,03"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no Fijos de Plantilla-Serv.G",
+    "Euros": "26835,84"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv.Grales.de Cultura",
+    "Euros": "1584,02"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Serv.Grales.de Cul",
+    "Euros": "9181,86"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33010,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Serv.Grales.de Cultura",
+    "Euros": "3261,48"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1 Personal Funcionari",
+    "Euros": "1497,89"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 Personal Funcionari",
+    "Euros": "1954,84"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 Personal Funcionari",
+    "Euros": "2450,62"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E Personal Funcionario",
+    "Euros": "747,74"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Biblioteca",
+    "Euros": "1544,06"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12100,
+    "Descripción": "Complemento Destino Personal Funcionario",
+    "Euros": "3502,94"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico Personal Funciona",
+    "Euros": "6288,02"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 12103,
+    "Descripción": "Otros Complementos Personal Funcionario-",
+    "Euros": "566,36"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 13000,
+    "Descripción": "Retribuciones Básicas Personal Laboral F",
+    "Euros": "1269,23"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 13002,
+    "Descripción": "Otras Remuneraciones Personal Laboral Fi",
+    "Euros": "1344,72"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no Fijos de Plantilla-Biblio",
+    "Euros": "18063,46"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 15000,
+    "Descripción": "Productividad-Bibliotecas",
+    "Euros": "1622,92"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Cultura",
+    "Euros": "2020,74"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33210,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Bibliotecas",
+    "Euros": "3295,21"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33220,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Archivo",
+    "Euros": "1251,03"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33220,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Archivo",
+    "Euros": "540,83"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33220,
+    "Económico": 12100,
+    "Descripción": "Complemento de Destino Personal Funciona",
+    "Euros": "765,59"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33220,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico Personal Funciona",
+    "Euros": "1756,61"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33220,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Archiv",
+    "Euros": "6291,62"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33220,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Archivo",
+    "Euros": "668,32"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1 Personal Funcionari",
+    "Euros": "4489,92"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 Personal Funcionari",
+    "Euros": "816,87"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Museo Arqu",
+    "Euros": "1841,31"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 12100,
+    "Descripción": "Complemento de Destino Personal Funciona",
+    "Euros": "2626,95"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico Personal Funciona",
+    "Euros": "5197,08"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 13000,
+    "Descripción": "Retribuciones Básicas Personal Laboral F",
+    "Euros": "1789,56"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 13002,
+    "Descripción": "Otras Remuneraciones Personal Laboral Fi",
+    "Euros": "2661,92"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Museo",
+    "Euros": "2283,91"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 15000,
+    "Descripción": "Productividad-Museo Arqueológico",
+    "Euros": 350
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Museo Arqueológico",
+    "Euros": "2073,99"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33310,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Museo Arqueológico",
+    "Euros": "1008,64"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1- Actividades Cultur",
+    "Euros": "1497,9"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Actividades Cultura",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Actividades Cultura",
+    "Euros": "1631,94"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Actividades Cultural",
+    "Euros": "745,86"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12006,
+    "Descripción": "Trienios-Actividades Culturales",
+    "Euros": "1978,43"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Actividades Cultu",
+    "Euros": "3075,78"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Actividades Cultu",
+    "Euros": "6130,29"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Actividades Culturale",
+    "Euros": "333,17"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Activi",
+    "Euros": "11589,53"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 15000,
+    "Descripción": "Productividad-Actividades Culturales",
+    "Euros": "117,3"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Actividades Culturales",
+    "Euros": "8051,43"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33411,
+    "Económico": 16204,
+    "Descripción": "Acción social-Actividades Culturales",
+    "Euros": "2184,06"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33412,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Banda",
+    "Euros": "9907,64"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33412,
+    "Económico": 16204,
+    "Descripción": "Acción social- Banda de música",
+    "Euros": "165,2"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33417,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Flamenco",
+    "Euros": "171,26"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33417,
+    "Económico": 12006,
+    "Descripción": "Trienios-Flamenco",
+    "Euros": "43,17"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33417,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Flamenco",
+    "Euros": "108,54"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33417,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Flamenco",
+    "Euros": "137,6"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33417,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Flamen",
+    "Euros": "2312,02"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33417,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Flamenco",
+    "Euros": "36,14"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33417,
+    "Económico": 16204,
+    "Descripción": "Acción social-Flamenco",
+    "Euros": "58,27"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33419,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Memoria Democratica",
+    "Euros": "98,41"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33419,
+    "Económico": 12006,
+    "Descripción": "Trienios-Memoria Democratica",
+    "Euros": "31,31"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33419,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Memoria Democrati",
+    "Euros": "53,8"
+  },
+  {
+    "Orgánico": "08",
+    "Programa": 33419,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Memoria Democrati",
+    "Euros": "80,1"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16210,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Recogi",
+    "Euros": "7010,92"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16210,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Recogida de residuos",
+    "Euros": "771,46"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16210,
+    "Económico": 16204,
+    "Descripción": "Acción social-Recogida de residuos",
+    "Euros": "461,61"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16310,
+    "Económico": 13000,
+    "Descripción": "Retrib. básicas personal laboral fijo-Li",
+    "Euros": "931,54"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16310,
+    "Económico": 13002,
+    "Descripción": "Otras remuner. personal laboral fijo-Lim",
+    "Euros": "1253,24"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16310,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijo de plantilla-Limpiez",
+    "Euros": "6287,65"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16310,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Limpieza Viaria",
+    "Euros": "1721,65"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 16310,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Limpieza Viaria",
+    "Euros": "767,77"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1 - Conservación y di",
+    "Euros": "1494,96"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 12004,
+    "Descripción": "Sldos. G-C2 pers. funcion.-Consv diseñ j",
+    "Euros": "816,87"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 12005,
+    "Descripción": "Sldos. G-E pers. funcion.-Consv diseñ ja",
+    "Euros": "1410,69"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 12006,
+    "Descripción": "Trienios pers. funcionario-Consv diseñ j",
+    "Euros": "1224,52"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 12100,
+    "Descripción": "Complto.destino pers.func.-Consv diseñ j",
+    "Euros": "1954,85"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 12101,
+    "Descripción": "Complet.específico pers. func.-Consv dis",
+    "Euros": "3890,61"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 12103,
+    "Descripción": "Otros compl. pers.func.-Consv diseñ jard",
+    "Euros": "129,38"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 13000,
+    "Descripción": "Retrib. básicas pers. lab. fijo-Consv di",
+    "Euros": "3588,25"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 13002,
+    "Descripción": "Otras remun. pers. lab. fijo-Consv diseñ",
+    "Euros": "5615,64"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 13101,
+    "Descripción": "IIndef. no fijos plantilla-Consv diseñ j",
+    "Euros": "44139,72"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 15000,
+    "Descripción": "Productividad-Consv diseñ jard. urbanis",
+    "Euros": "1243,69"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Consv diseñ jard. urbani",
+    "Euros": "3483,61"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17110,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Consv diseñ jard. urbanis",
+    "Euros": "5753,74"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1- Protección y mejor",
+    "Euros": "2995,78"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 - Protección y mejo",
+    "Euros": "2450,78"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Proteccion y mejora",
+    "Euros": "747,74"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 12006,
+    "Descripción": "Trienios pers. funcionario-Protec. y mej",
+    "Euros": "1518,1"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 12100,
+    "Descripción": "Complem. destino pers. funcion.-Protec.",
+    "Euros": "3738,35"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 12101,
+    "Descripción": "Complem. específico pers. func.-Protec.",
+    "Euros": "8341,71"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Protección y mejora",
+    "Euros": "27,61"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 13101,
+    "Descripción": "Indefinido no fijo de plantilla-Protec.",
+    "Euros": "41419,27"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 15000,
+    "Descripción": "Productividades-Protec. y mejora M. Ambi",
+    "Euros": 150
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Protec y Mejora del Medi",
+    "Euros": "4177,38"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17210,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Protec. y mejora M. Ambien",
+    "Euros": "5296,02"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17211,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos plantilla-Otras. ac",
+    "Euros": "3952,92"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17211,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Otras. actuac. M. Amb.-",
+    "Euros": "30,96"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17211,
+    "Económico": 16204,
+    "Descripción": "Acción social-Otras actuac.relacionadas",
+    "Euros": "161,03"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17910,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Servic",
+    "Euros": "6222,22"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17910,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Servicio Tecnico Mpal",
+    "Euros": "13,29"
+  },
+  {
+    "Orgánico": "09",
+    "Programa": 17910,
+    "Económico": 16204,
+    "Descripción": "Acción social-Servicio Tecnico Mpal",
+    "Euros": "596,79"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 12003,
+    "Descripción": "Sueldo G-C1 Personal funcionario-Serv. G",
+    "Euros": "68,11"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 12004,
+    "Descripción": "Sueldo GC2 personal funcionario-Serv. Ge",
+    "Euros": "1632,5"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Serv. Gene",
+    "Euros": "487,45"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 12100,
+    "Descripción": "Complemento destino pers.funcion.-Serv.",
+    "Euros": "1017,59"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 12101,
+    "Descripción": "Complemento específico pers.funcion.-Ser",
+    "Euros": "1383,91"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Serv.",
+    "Euros": "40069,91"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 15000,
+    "Descripción": "Productividad. Servicios Generales de Ur",
+    "Euros": "5775,45"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones. Servicios Generales de",
+    "Euros": "297,48"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15010,
+    "Económico": 16204,
+    "Descripción": "Acción Social--Serv. Generales Urbanismo",
+    "Euros": "5746,54"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 12003,
+    "Descripción": "Sueldo GC1pers.funcion.-Planeamiento y G",
+    "Euros": "161,77"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 12004,
+    "Descripción": "Sueldo GC2 pers.funcion.-Planeamiento y",
+    "Euros": "4084,36"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 12006,
+    "Descripción": "Trienios pers.funcion.-Planeamiento y Ge",
+    "Euros": "1588,61"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 12100,
+    "Descripción": "Complem. destino pers.func.-Planeamiento",
+    "Euros": "2689,92"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 12101,
+    "Descripción": "Complem. específico pers.func.-Planeamie",
+    "Euros": "4379,44"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 13101,
+    "Descripción": "Indef. no fijo plantilla-Planeamisnto y",
+    "Euros": "75338,21"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 15000,
+    "Descripción": "Productividad-Planeamiento y Gestión Urb",
+    "Euros": "5626,61"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Planeamiento y Gestión U",
+    "Euros": "742,34"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15110,
+    "Económico": 16204,
+    "Descripción": "Acción social-Planeamiento y Gestión Urb",
+    "Euros": "4571,56"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1 p.funcionario-Licen",
+    "Euros": "7485,92"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2- Licencias Urbaníst",
+    "Euros": "2579,83"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Licencias Urbanisti",
+    "Euros": "847,01"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 p.funcionario-Licen",
+    "Euros": "3234,62"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 12006,
+    "Descripción": "Trienios p.funcionario-Licencias Urbanis",
+    "Euros": "2172,62"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 12100,
+    "Descripción": "Complemento destino p.funcionario-Licenc",
+    "Euros": "8806,92"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 12101,
+    "Descripción": "Complemento específico p.funcionario-Lic",
+    "Euros": "17452,66"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Licenc",
+    "Euros": "157825,34"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 15000,
+    "Descripción": "Productividad-Licencias Urbanisticas",
+    "Euros": "7400,5"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Licencias Urbanísticas",
+    "Euros": "3657,08"
+  },
+  {
+    "Orgánico": 10,
+    "Programa": 15120,
+    "Económico": 16204,
+    "Descripción": "Acción social-Licencias Urbanisticas",
+    "Euros": "12426,34"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12000,
+    "Descripción": "Sueldos el grupo A1- Participación Ciuda",
+    "Euros": "1685,45"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2- Participación Ciud",
+    "Euros": "1298,77"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 - Participación Ciu",
+    "Euros": "4911,22"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12005,
+    "Descripción": "Sueldos grupo E personal funcionario-Par",
+    "Euros": "746,05"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Participac",
+    "Euros": "2059,81"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12100,
+    "Descripción": "Complemento destino personal funcion-Par",
+    "Euros": "5029,17"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12101,
+    "Descripción": "Complem específ personal funcionario-Par",
+    "Euros": "8062,77"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Participación ciudad",
+    "Euros": "536,14"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 13000,
+    "Descripción": "Retribuc basicas pnal.laboral fijo-Parti",
+    "Euros": "4168,02"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones pers laboral fijo-P",
+    "Euros": "5837,05"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Partic",
+    "Euros": "24933,78"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 15000,
+    "Descripción": "Productividad-Participacion Ciudadana",
+    "Euros": "2905,77"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Participacion Ciudadana",
+    "Euros": "4133,83"
+  },
+  {
+    "Orgánico": 11,
+    "Programa": 92410,
+    "Económico": 16204,
+    "Descripción": "Acción social-Participacion Ciudadana",
+    "Euros": "3225,64"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2- Servicios grales.",
+    "Euros": "1039,01"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 12004,
+    "Descripción": "Sueldos Grupo C2 Pers.Funcionario-Serv.G",
+    "Euros": "816,87"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 12005,
+    "Descripción": "Sueldos Grupo E Pers.Funcionario-Serv.Gr",
+    "Euros": "2244,54"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Serv.Grale",
+    "Euros": "1150,57"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 12100,
+    "Descripción": "Complemento Destino Perso.Funcionario-Se",
+    "Euros": "2150,62"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico Perso.Funcionario",
+    "Euros": "4868,05"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Servicios generales",
+    "Euros": "14,82"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 13000,
+    "Descripción": "Retribuciones Básicas Pers. Laboral Fijo",
+    "Euros": "2181,63"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 13002,
+    "Descripción": "Otras Remuneraciones Perso.Laboral Fijo-",
+    "Euros": "2260,12"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no Fijos de Plantilla-Serv.G",
+    "Euros": "27401,94"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv.Grales. Educación",
+    "Euros": "680,7"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones",
+    "Euros": "31,15"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32010,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Serv.Grales. Educación",
+    "Euros": "2378,29"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A1-Funcionam. centros",
+    "Euros": "184,73"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E Pers.Func.-Funcionam",
+    "Euros": "18810,42"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Funcionam.",
+    "Euros": "2412,94"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 12100,
+    "Descripción": "Complemento Destino Pers. Funcionarios-F",
+    "Euros": "9798,46"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico Pers. Funcionario",
+    "Euros": "19846,26"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 12103,
+    "Descripción": "Otros Complementos Pers. Funcionario-Fun",
+    "Euros": "158,63"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 13000,
+    "Descripción": "Retribuciones Básicas Pers. Laboral Fijo",
+    "Euros": 6541
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 13002,
+    "Descripción": "Otras Remuneraciones Pers.Laboral Fijo-F",
+    "Euros": "8692,84"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no Fijos de Plantilla-Funcio",
+    "Euros": "54024,75"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 15000,
+    "Descripción": "Productividad-Funcionam. centros docente",
+    "Euros": 150
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Funcionam. centros docen",
+    "Euros": "365,38"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32310,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Funcionam. centros docente",
+    "Euros": "12974,52"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32621,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no Fijos de Plantilla-Escuel",
+    "Euros": "16636,79"
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32621,
+    "Económico": 15000,
+    "Descripción": "Productividad-Escuela de Música",
+    "Euros": 300
+  },
+  {
+    "Orgánico": 12,
+    "Programa": 32621,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Escuela de Música",
+    "Euros": "293,48"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1. Distritto Sur",
+    "Euros": "978,28"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Distrito S",
+    "Euros": "419,44"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 12100,
+    "Descripción": "Complemento destino personal funcionario",
+    "Euros": 695
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 12101,
+    "Descripción": "Complemento específ personal funcionario",
+    "Euros": "1686,89"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Distrito Sur",
+    "Euros": "6,74"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas p.laboral fijo-Dis",
+    "Euros": "1080,5"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones personal laboral fi",
+    "Euros": "1451,47"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Distri",
+    "Euros": "8193,55"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 15000,
+    "Descripción": "Productividad-Distrito Sur",
+    "Euros": "1475,47"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Distrito Sur",
+    "Euros": "184,08"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92053,
+    "Económico": 16204,
+    "Descripción": "Acción social-Distrito Sur",
+    "Euros": "714,1"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92055,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Distri",
+    "Euros": "3801,88"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92055,
+    "Económico": 16204,
+    "Descripción": "Acción social-Distrito Oeste",
+    "Euros": "472,41"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2.-Distrito Noreste",
+    "Euros": "1747,85"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 12006,
+    "Descripción": "Trienios.-Distrito Noreste",
+    "Euros": "442,56"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino.-Distrito Noreste",
+    "Euros": "959,46"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 12101,
+    "Descripción": "Complemento específico.-Distrito Noreste",
+    "Euros": "1428,18"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Distrito Norte",
+    "Euros": "78,66"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas personal laboral f",
+    "Euros": "1573,3"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones personal laboral fi",
+    "Euros": "2413,41"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Distri",
+    "Euros": "16489,99"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 15000,
+    "Descripción": "Productividad-Distrito Noreste",
+    "Euros": "965,26"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Distrito Noreste",
+    "Euros": "1473,72"
+  },
+  {
+    "Orgánico": 13,
+    "Programa": 92056,
+    "Económico": 16204,
+    "Descripción": "Acción social-Distrito Noreste",
+    "Euros": "1323,41"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1 - Gestión del patri",
+    "Euros": "4489,41"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Gestión del patri",
+    "Euros": "12,7"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 - Gestión del patri",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Gestión del Patrimo",
+    "Euros": "816,29"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 12006,
+    "Descripción": "Trienios-Gestión del Patrimonio",
+    "Euros": "1338,9"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Gestión del Patri",
+    "Euros": "3976,68"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Gestión del Patri",
+    "Euros": "7149,17"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Gestión del Patrim",
+    "Euros": "1367,84"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Gestión del Patrimo",
+    "Euros": 1278
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Gestió",
+    "Euros": "39500,34"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 15000,
+    "Descripción": "Productividad-Gestión del Patrimonio",
+    "Euros": "4051,78"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones. Gestión del patrimonio",
+    "Euros": "2622,59"
+  },
+  {
+    "Orgánico": 14,
+    "Programa": 93310,
+    "Económico": 16204,
+    "Descripción": "Acción social-Gestión del Patrimonio",
+    "Euros": "1450,12"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2- Fiesta populares y",
+    "Euros": "816,87"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 12006,
+    "Descripción": "Trienios-Fiesta populares y festejos",
+    "Euros": "343,14"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino- Fiestas populare",
+    "Euros": "538,17"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Fiestas populares",
+    "Euros": "1686,89"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Fiestas populares y",
+    "Euros": "135,58"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Fiesta",
+    "Euros": "21706,08"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 15000,
+    "Descripción": "Productividad-Fiestas populares y festej",
+    "Euros": "899,71"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Fiestas populares y fest",
+    "Euros": "6930,5"
+  },
+  {
+    "Orgánico": 15,
+    "Programa": 33810,
+    "Económico": 16204,
+    "Descripción": "Acción social- Fiestas populares y feste",
+    "Euros": "1273,1"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1-Serv.Grales.Acción",
+    "Euros": "4318,2"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Servicios Grales-",
+    "Euros": "2764,14"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12003,
+    "Descripción": "Sueldos G-C1 pers. func.-Serv.Grales.Acc",
+    "Euros": "4718,75"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12004,
+    "Descripción": "Sueldos G-C2 pers. func.-Serv. Grales.Ac",
+    "Euros": "5720,26"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E - Servicios Grales-A",
+    "Euros": "1494,96"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12006,
+    "Descripción": "Trienios pers. func.-Serv. Grales. Acció",
+    "Euros": "4500,58"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12100,
+    "Descripción": "Complemt. destino pers. func.-Serv. Gral",
+    "Euros": "9995,98"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12101,
+    "Descripción": "Complem. específ. pers. func.-Serv. Gral",
+    "Euros": "18625,04"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 12103,
+    "Descripción": "Otros complemt. pers. func.-Serv.  Grale",
+    "Euros": "1083,74"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 13000,
+    "Descripción": "Retrib. básicas pers. lab. fijo-Serv.  G",
+    "Euros": "2451,4"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 13002,
+    "Descripción": "Otras remun. pers. lab. fijo-Serv. Grale",
+    "Euros": "2508,83"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 13101,
+    "Descripción": "Indef. no fijos de plantilla-Serv.  Gral",
+    "Euros": "21475,78"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv.  Grales. Acción Soci",
+    "Euros": 438
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones. Servicios  Grales. Acci",
+    "Euros": "4990,6"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23110,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Serv.  Grales. Acción Soci",
+    "Euros": "4432,94"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Primera atención",
+    "Euros": "4985,68"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Primera Atención",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12004,
+    "Descripción": "Sueldo G-C2 pers. funcionario-Primera At",
+    "Euros": "1648,5"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E - Primera atención",
+    "Euros": "1495,48"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12006,
+    "Descripción": "Trienios pers. funcionario-Pmra. Atenc.",
+    "Euros": "2260,69"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12100,
+    "Descripción": "Complemento destino pers. func-Pmra. Ate",
+    "Euros": "4727,43"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12101,
+    "Descripción": "Complemento espec. pers. func-Pmra. Aten",
+    "Euros": "8550,07"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 12103,
+    "Descripción": "Otros complementos- Primera Atención",
+    "Euros": "533,9"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 13000,
+    "Descripción": "Retrib.básicas pers. lab. fijo-Pmra. Ate",
+    "Euros": "1002,26"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 13002,
+    "Descripción": "Otras. remun. pers. laboral fijo-Primera",
+    "Euros": "1226,24"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 13101,
+    "Descripción": "Indefinido no fijo plantilla-Pmra. Atenc",
+    "Euros": "39178,2"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 15000,
+    "Descripción": "Productividad-Primera Atención",
+    "Euros": "1052,96"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones",
+    "Euros": "611,65"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23120,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Pmra. Atenc.",
+    "Euros": "2635,82"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23121,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Intervención en z",
+    "Euros": "1438,27"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23121,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 - Intervención en z",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23121,
+    "Económico": 12006,
+    "Descripción": "Trienios - Intervención en zona",
+    "Euros": "894,34"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23121,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino  - Intervención e",
+    "Euros": "1171,37"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23121,
+    "Económico": 12101,
+    "Descripción": "Complemento específico - Intervención en",
+    "Euros": "2189,66"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23121,
+    "Económico": 13101,
+    "Descripción": "Indefinido no fijo plantilla-Interv. Zon",
+    "Euros": "46625,31"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23121,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Interv. Zona",
+    "Euros": "319,58"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23123,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Inclusion social",
+    "Euros": "2597,54"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23123,
+    "Económico": 12006,
+    "Descripción": "Trienios - Inclusion social y Solidarida",
+    "Euros": "752,62"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23123,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino - Inclusion socia",
+    "Euros": "1543,03"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23123,
+    "Económico": 12101,
+    "Descripción": "Complemento específico  - Inclusion soci",
+    "Euros": "2579,96"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23123,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Inclus",
+    "Euros": "10896,98"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23123,
+    "Económico": 15000,
+    "Descripción": "Productividad-Inclusión soc. Solid.",
+    "Euros": "845,44"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23123,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Inclusión Social y Solid",
+    "Euros": "2361,89"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Mayores",
+    "Euros": "7788,03"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 12006,
+    "Descripción": "Trienios - Mayores",
+    "Euros": "799,71"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino - Mayores",
+    "Euros": "3793,89"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 12101,
+    "Descripción": "Complemento específico - Mayores",
+    "Euros": "7663,84"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 12103,
+    "Descripción": "Otros complementos personal funcionario-",
+    "Euros": "1,15"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos plantilla-Mayores",
+    "Euros": "8528,59"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 15000,
+    "Descripción": "Productividad-Mayores",
+    "Euros": "1352,1"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Mayores",
+    "Euros": "2812,83"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23130,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Mayores",
+    "Euros": "1531,38"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23131,
+    "Económico": 13101,
+    "Descripción": "Indefinido no fijos de plantilla-Centro",
+    "Euros": "7705,2"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23131,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Centro ´dia Mayores Zona",
+    "Euros": "4,31"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23131,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Centro Día Mayores Zona Su",
+    "Euros": "637,65"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1 - Centro Dia Mayore",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 12006,
+    "Descripción": "Trienios  -Centro Dia Mayores Zona Norte",
+    "Euros": "178,8"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino  - Centro Dia May",
+    "Euros": "538,17"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 12101,
+    "Descripción": "Complemento específico - Centro Dia Mayo",
+    "Euros": "766,83"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Centro Dia Mayores Zo",
+    "Euros": "106,17"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Centro",
+    "Euros": "4235,84"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones",
+    "Euros": "10,98"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23133,
+    "Económico": 16204,
+    "Descripción": "Acción social-Centro Día Mayores Z.Norte",
+    "Euros": "808,55"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23140,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Tratamiento a Fam",
+    "Euros": "1298,77"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23140,
+    "Económico": 12006,
+    "Descripción": "Trienios - Tratamiento a Familias con me",
+    "Euros": "423,99"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23140,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino  - Tratamiento a",
+    "Euros": "568,8"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23140,
+    "Económico": 12101,
+    "Descripción": "Complemento específico - Tratamiento a F",
+    "Euros": "1278,05"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23140,
+    "Económico": 13101,
+    "Descripción": "Indefin. no fijos plantilla-Tratamiento",
+    "Euros": "29104,4"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2 - Prevencion, promo",
+    "Euros": "1301,14"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 - Prevencion, promo",
+    "Euros": "816,8"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 12006,
+    "Descripción": "Trienios - Prevencion, promocion y reins",
+    "Euros": "734,14"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino  - Prevencion, pr",
+    "Euros": "1292,36"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 12101,
+    "Descripción": "Complemento específico - Prevencion, pro",
+    "Euros": "1945,07"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 13101,
+    "Descripción": "Indef. no fijos plantilla-Prev. prom. re",
+    "Euros": "3977,46"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 15000,
+    "Descripción": "Productividad-Prev. prom. reins. menores",
+    "Euros": "617,87"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Prev. prom. reins. menor",
+    "Euros": "1162,76"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23141,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Prev. prom. reins. menores",
+    "Euros": "339,53"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23150,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Inmigr",
+    "Euros": "3381,17"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 12001,
+    "Descripción": "Sueldo Grupo A2 Pers. Funcion.- Serv.com",
+    "Euros": "3898,93"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 12003,
+    "Descripción": "Sueldo Grupo C1 Pers. Funcion.- Serv.com",
+    "Euros": "978,28"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionarios-Serv.comu",
+    "Euros": "1262,89"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 12100,
+    "Descripción": "Complemt. de destino Personal Func-Serv.",
+    "Euros": "2690,8"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 12101,
+    "Descripción": "Complt. específico Personal Func.Serv.co",
+    "Euros": "5523,6"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas Persn Lab. Fijo-Se",
+    "Euros": "1033,28"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 13002,
+    "Descripción": "Otras remuner. Pers. Lab. Fijo-Serv.comu",
+    "Euros": "1081,61"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Serv.c",
+    "Euros": "19590,12"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 15000,
+    "Descripción": "Productividad-Serv.comunitarios de asist",
+    "Euros": "2505,2"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Serv.comunitarios asist",
+    "Euros": "641,2"
+  },
+  {
+    "Orgánico": 16,
+    "Programa": 23170,
+    "Económico": 16204,
+    "Descripción": "Acción Social - Serv.comunitarios de asi",
+    "Euros": "753,69"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92010,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1-Serv.Grales.Admon.",
+    "Euros": "326,39"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92010,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Serv.Grales.Admon G",
+    "Euros": "348,04"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92010,
+    "Económico": 12006,
+    "Descripción": "Trienios-Serv.Grales.Admon.Gral.",
+    "Euros": "61,2"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92010,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Serv.Grales.Admon",
+    "Euros": "352,27"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92010,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Serv.Grales.Admon",
+    "Euros": "707,08"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92010,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Serv.G",
+    "Euros": "2725,23"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92010,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Serv.Grales.Admon Gral.",
+    "Euros": "51,22"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1-Servicio Contrataci",
+    "Euros": "2645,52"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Servicio Contrataci",
+    "Euros": "2570,39"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 12006,
+    "Descripción": "Trienios-Servicio Contratacion",
+    "Euros": "412,94"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Servicio Contrata",
+    "Euros": "2527,44"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Servicio Contrata",
+    "Euros": "5249,12"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Serv.C",
+    "Euros": "25079,77"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 15000,
+    "Descripción": "Productividad-Servicio Contratacion",
+    "Euros": 700
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Servicio Contratacion",
+    "Euros": "490,64"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92034,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Servicio Contratacion",
+    "Euros": "3146,7"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92071,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Planes",
+    "Euros": "6170,59"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92071,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Planes Especiales",
+    "Euros": "354,03"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92072,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla- Patro",
+    "Euros": "4933,03"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92072,
+    "Económico": 15000,
+    "Descripción": "Productividad - Patrocinio",
+    "Euros": "655,23"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 92072,
+    "Económico": 16204,
+    "Descripción": "Acción social - Patrocinio",
+    "Euros": "355,35"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 12001,
+    "Descripción": "Sueldos grupo A2 P. Funcionario-Admon.",
+    "Euros": "2696,6"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 12004,
+    "Descripción": "Sueldos grupo C2 P. Funcionario-Admon. G",
+    "Euros": "887,69"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Admon. Gra",
+    "Euros": "1470,27"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 12100,
+    "Descripción": "Complemento destino P. Funcionario-Admon",
+    "Euros": "2357,91"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico P. Funcionario-Ad",
+    "Euros": "4588,27"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Administración Gra",
+    "Euros": "1133,11"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Administración Gral",
+    "Euros": "1315,35"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Admon.",
+    "Euros": "42736,98"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 15000,
+    "Descripción": "Productividad-Administración General Áre",
+    "Euros": "10412,15"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones- Adm.Gral.Area Económica",
+    "Euros": "1310,82"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93110,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Administración General Áre",
+    "Euros": "1136,31"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 12000,
+    "Descripción": "Sueldos del grupo A 1 P. Funcionario-Ser",
+    "Euros": "10293,16"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 12003,
+    "Descripción": "Sueldos grupo C1 P. Funcionario-Servicio",
+    "Euros": "1001,16"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 12004,
+    "Descripción": "Sueldos grupo C2 P. Funcionario-Servicio",
+    "Euros": "2508,2"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal Funcionario-Servicio d",
+    "Euros": "4129,68"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 12100,
+    "Descripción": "Complemento destino Personal funcionario",
+    "Euros": "8925,22"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 12101,
+    "Descripción": "Complemen.especifi.Personal funcionario-",
+    "Euros": "19282,52"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Servicio de Intervenc",
+    "Euros": "1894,87"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Servic",
+    "Euros": "29689,56"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 15000,
+    "Descripción": "Productividad-Servicio de Intervención",
+    "Euros": "16708,37"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Servicio de Intervención",
+    "Euros": "1241,68"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93111,
+    "Económico": 16204,
+    "Descripción": "Acción social-Servicio de Intervención",
+    "Euros": "1394,1"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 12000,
+    "Descripción": "Sueldo grupo A1 Pers. funcionario-Servic",
+    "Euros": "1500,33"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 12003,
+    "Descripción": "Sueldo grupo C! Perso. funcionario-Servi",
+    "Euros": "3265,95"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 12004,
+    "Descripción": "Sueldo del grupo C2 Perso. funcionario-S",
+    "Euros": "2405,4"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 12006,
+    "Descripción": "Trienios Personal funcionario-Servicio d",
+    "Euros": "2445,16"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 12100,
+    "Descripción": "Complem. destino Pers. funcionario-Servi",
+    "Euros": "4619,5"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 12101,
+    "Descripción": "Complem.específico Pers. funcionario-Ser",
+    "Euros": "11171,55"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 12103,
+    "Descripción": "Otros complem. Pers. funcionario-Servici",
+    "Euros": "313,74"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 13000,
+    "Descripción": "Retrib. Básicas Pers.laboral fijo-Servic",
+    "Euros": "186,84"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 13002,
+    "Descripción": "Otras remuner. Pers. laboral fijo-Servic",
+    "Euros": "150,91"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos de plantilla-Servic",
+    "Euros": "17805,05"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 15000,
+    "Descripción": "Productividad-Servicio de Tesorería",
+    "Euros": "6270,64"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones. Tesorería",
+    "Euros": "3435,38"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93410,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Servicio de Tesorería",
+    "Euros": "2105,67"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 12000,
+    "Descripción": "Sueldos del Grupo A1 - Servicio de Recau",
+    "Euros": "5992,39"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 12001,
+    "Descripción": "Sueldos del Grupo A2-Servicio de Recauda",
+    "Euros": "1298,77"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 12006,
+    "Descripción": "Trienios-Servicio de Recaudación",
+    "Euros": "1236,14"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Servicio de Recau",
+    "Euros": "3831,65"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Servicio de Recau",
+    "Euros": "7555,13"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Servicio de Recaud",
+    "Euros": "1079,38"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Servicio de Recauda",
+    "Euros": "1369,76"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Servic",
+    "Euros": "160373,9"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 15000,
+    "Descripción": "Productividad-Servicio de Recaudación",
+    "Euros": "16723,92"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Servicio de Recaudación",
+    "Euros": "1560,31"
+  },
+  {
+    "Orgánico": 17,
+    "Programa": 93411,
+    "Económico": 16204,
+    "Descripción": "Acción social-Servicio de Recaudación",
+    "Euros": "14348,1"
+  },
+  {
+    "Orgánico": 18,
+    "Programa": 33711,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Casa de la Juventu",
+    "Euros": "1085,24"
+  },
+  {
+    "Orgánico": 18,
+    "Programa": 33711,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Casa de la Juventud",
+    "Euros": "1173,34"
+  },
+  {
+    "Orgánico": 18,
+    "Programa": 33711,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Casa d",
+    "Euros": "18777,79"
+  },
+  {
+    "Orgánico": 18,
+    "Programa": 33711,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones--Casa de la Juventud",
+    "Euros": "1164,02"
+  },
+  {
+    "Orgánico": 18,
+    "Programa": 33711,
+    "Económico": 16204,
+    "Descripción": "Acción social-Casa de la Juventud",
+    "Euros": "2019,11"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 12003,
+    "Descripción": "Sueldos grupo C1 P.Funcionario-Admon.gra",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 -  Adm Grak  Seguri",
+    "Euros": "816,93"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 12006,
+    "Descripción": "Trienios personal Funcionario-Admon.gral",
+    "Euros": "597,47"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 12100,
+    "Descripción": "Complemento destino P.Funcionario-Admon.",
+    "Euros": "954,09"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 12101,
+    "Descripción": "Complemento Específico P.Funcionario-Adm",
+    "Euros": "1465,38"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Admon.gral.Seguridad",
+    "Euros": "3,37"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 13000,
+    "Descripción": "Retribuciones basica pnal. laboral-Admon",
+    "Euros": "1108,93"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 13002,
+    "Descripción": "Otras remuner.pnal. laboral fijo-Admon.g",
+    "Euros": "1458,36"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijo de plantilla-Admon.g",
+    "Euros": "13889,78"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Admon.gral.Seguridad y P",
+    "Euros": "3187,85"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13010,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Admon.gral.Seguridad y P.C",
+    "Euros": "2744,1"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12000,
+    "Descripción": "Sueldo G1A personal funcionario-Policía",
+    "Euros": "3177,74"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12001,
+    "Descripción": "Sueldo GA2 personal funcionario-Policia",
+    "Euros": "17641,24"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12003,
+    "Descripción": "Sueldo GC1 personal funcionario-Policía",
+    "Euros": "208102,9"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2 - Policía Local",
+    "Euros": "698,76"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12005,
+    "Descripción": "Sueldo GE personal funcionario-Policía L",
+    "Euros": "11093,45"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12006,
+    "Descripción": "Trienios personal funcionario-Policía Lo",
+    "Euros": "66341,03"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino personal funciona",
+    "Euros": "157814,46"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12101,
+    "Descripción": "Complemento específico personal funciona",
+    "Euros": "481874,41"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 12103,
+    "Descripción": "Otros complementos personal funcionario-",
+    "Euros": "6175,31"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas personal laboral f",
+    "Euros": "5588,8"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones personal laboral fi",
+    "Euros": "9250,35"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 13101,
+    "Descripción": "IIndefinidos no fijo de plantilla-Policí",
+    "Euros": "58989,78"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 15000,
+    "Descripción": "Productividad-Policía Local",
+    "Euros": "8582,52"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Policía Local",
+    "Euros": "462934,86"
+  },
+  {
+    "Orgánico": 19,
+    "Programa": 13210,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Policía Local",
+    "Euros": "23811,76"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Mercados",
+    "Euros": "965,68"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Mercados",
+    "Euros": "2340,41"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 12006,
+    "Descripción": "Trienios-Mercados",
+    "Euros": "648,72"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Mercados",
+    "Euros": "1736,33"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Mercados",
+    "Euros": "3519,1"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Mercados",
+    "Euros": "451,63"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Mercados",
+    "Euros": "898,27"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Mercados",
+    "Euros": "1186,09"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Mercad",
+    "Euros": "9083,54"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Mercados",
+    "Euros": "3706,27"
+  },
+  {
+    "Orgánico": 20,
+    "Programa": 43120,
+    "Económico": 16204,
+    "Descripción": "Acción social-Mercados",
+    "Euros": "2261,74"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 12004,
+    "Descripción": "Sueldos GC2  personal funcion.-Ordenació",
+    "Euros": "816,87"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 12006,
+    "Descripción": "Trienios  personal funcion.-Ordenación T",
+    "Euros": "294,11"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 12100,
+    "Descripción": "Complemento destino pers. funcion.-Orden",
+    "Euros": "538,17"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 12101,
+    "Descripción": "Complemento especíco pers.funcion.-Orden",
+    "Euros": "732,75"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas pers. laboral-Orde",
+    "Euros": "2969,32"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 13002,
+    "Descripción": "Otras remuner. pers. laboral fijo-Ordena",
+    "Euros": "4188,79"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 13101,
+    "Descripción": "IIndefinidos no fijos de plantilla-Orden",
+    "Euros": "39553,12"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 15000,
+    "Descripción": "Productividad-Ordenación Tráf. y Estac.",
+    "Euros": "3271,76"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Ordenación Tráf. y Estac",
+    "Euros": "3109,81"
+  },
+  {
+    "Orgánico": 21,
+    "Programa": 13310,
+    "Económico": 16204,
+    "Descripción": "Acción Social-Ordenación Tráf. y Estac.",
+    "Euros": "4511,64"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Turismo",
+    "Euros": "747,74"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 12006,
+    "Descripción": "Trienios-Alcazar-Conjunto Monumental",
+    "Euros": "145,5"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Alcazar-Conjunto",
+    "Euros": "415,85"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Alcazar-Conjunto",
+    "Euros": "869,04"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Alcazar-Conjunto Monu",
+    "Euros": "61,6"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 13100,
+    "Descripción": "Retribuciones personal laboral eventual-",
+    "Euros": "697,45"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Alcaza",
+    "Euros": "16029,57"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 15000,
+    "Descripción": "Productividad-Alcazar-Conjunto Monumenta",
+    "Euros": 525
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 33610,
+    "Económico": 16204,
+    "Descripción": "Acción social-Alcazar-Conjunto Monumenta",
+    "Euros": "1402,99"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43210,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Activ y Promoc Tur",
+    "Euros": "5709,91"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43210,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Actividad y Promoc",
+    "Euros": "7430,77"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43210,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Activi",
+    "Euros": "34370,44"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43210,
+    "Económico": 15000,
+    "Descripción": "Productividad-Activid y Promoc. Turistic",
+    "Euros": "4537,48"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43210,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Activ. y Promoc. Turisti",
+    "Euros": "1699,19"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43210,
+    "Económico": 16204,
+    "Descripción": "Acción social-Activ. y Promoc Turistica",
+    "Euros": "1688,71"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43211,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Activ.",
+    "Euros": "3229,32"
+  },
+  {
+    "Orgánico": 22,
+    "Programa": 43211,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Activ y Prom Turist Ext",
+    "Euros": "7,28"
+  },
+  {
+    "Orgánico": 23,
+    "Programa": 92071,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Planes",
+    "Euros": "966,67"
+  },
+  {
+    "Orgánico": 23,
+    "Programa": 92071,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Planes Especiales",
+    "Euros": "20,8"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 31112,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Centro",
+    "Euros": "10882,76"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 31112,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Centro mpal protección a",
+    "Euros": "1162,55"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 31112,
+    "Económico": 16204,
+    "Descripción": "Acción social-Centro mpal. protección an",
+    "Euros": "736,88"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 12003,
+    "Descripción": "Sueldos del Grupo C1-Paque zoológico",
+    "Euros": "978,29"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 12004,
+    "Descripción": "Sueldos del Grupo C2-Paque zoológico",
+    "Euros": "814,97"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 12006,
+    "Descripción": "Trienios-Paque zoológico",
+    "Euros": "734,42"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Paque zoológico",
+    "Euros": "1075,39"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Paque zoológico",
+    "Euros": "2620,85"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Paque zoológico",
+    "Euros": "24,65"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 13000,
+    "Descripción": "Retribuciones básicas-Paque zoológico",
+    "Euros": "2979,71"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 13002,
+    "Descripción": "Otras remuneraciones-Paque zoológico",
+    "Euros": "4018,26"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 13101,
+    "Descripción": "Indefinidos no fijos en plantilla-Paque",
+    "Euros": "86813,56"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 15000,
+    "Descripción": "Productividad-Paque zoológico",
+    "Euros": 175
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 15100,
+    "Descripción": "Gratificaciones-Paque zoológico",
+    "Euros": "16598,95"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 33710,
+    "Económico": 16204,
+    "Descripción": "Acción social-Paque zoológico",
+    "Euros": "11419,14"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 41910,
+    "Económico": 12005,
+    "Descripción": "Sueldos del Grupo E-Montes Propios",
+    "Euros": "747,74"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 41910,
+    "Económico": 12006,
+    "Descripción": "Trienios-Montes Propios",
+    "Euros": "238,94"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 41910,
+    "Económico": 12100,
+    "Descripción": "Complemento de destino-Montes Propios",
+    "Euros": "415,85"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 41910,
+    "Económico": 12101,
+    "Descripción": "Complemento específico-Montes Propios",
+    "Euros": "869,04"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 41910,
+    "Económico": 12103,
+    "Descripción": "Otros complementos-Montes Propios",
+    "Euros": "114,98"
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 41910,
+    "Económico": 15000,
+    "Descripción": "Productividad-Montes Propios",
+    "Euros": 150
+  },
+  {
+    "Orgánico": 24,
+    "Programa": 41910,
+    "Económico": 16204,
+    "Descripción": "Acción social-Montes Propios",
+    "Euros": "190,76"
+  }
+]
