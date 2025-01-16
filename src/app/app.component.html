@@ -1,13 +1,18 @@
 
-
 @defer (on timer(500ms)) {
-  <ag-grid-angular
-    #agGrid
-    style="width: 100%; height: 100vh;"
-    class="ag-theme-balham"
-    [defaultColDef]="defaultColDef"
-    [gridOptions]="gridOptions"
-  />
+  @if (gridOptions) {
+    <ag-grid-angular
+      #agGrid
+      style="width: 100%; height: 100vh;"
+      class="ag-theme-balham"
+      [defaultColDef]="defaultColDef"
+      [gridOptions]="gridOptions"
+      [rowData]="rowData1"
+      [columnDefs]="_columnDefs"
+    ></ag-grid-angular>
+  }
+  @else {
+    <p>Cargando datos...</p>
+  }
 }
-
 

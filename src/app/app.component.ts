@@ -32,7 +32,7 @@ export class AppComponent implements OnInit {
      }
 
   async fecthData() { 
-    const data = await import(`../assets/data/csvjson.json`);
+    const data = await import(`../assets/data/202301Nomina.json`);
     this.rowData1 = data.default;
     console.log(this.rowData1);
       this._setColumnDefs();
@@ -46,27 +46,28 @@ export class AppComponent implements OnInit {
 			{
 				headerName: 'Orgánico',
 				field: 'Orgánico',
-				width: 42
+				width: 142
 			},
 			{
 				headerName: 'Programa',
 				field: 'Programa',
-				width: 375
+				width: 142
 			} as ISetFilterParams,
 			{
 				headerName: 'Económico',
 				field: 'Económico',
-				width: 210
+				width: 142
 			},
 			{
 				headerName: 'Descripción',
 				field: 'Descripción',
-				width: 90
+				width: 400
 			},
 			{
 				headerName: 'Euros',
 				field: 'Euros',
-				width: 75
+				width: 125,
+        aggFunc: 'sum',
 			}
 		];
 	}
@@ -75,12 +76,12 @@ export class AppComponent implements OnInit {
   _setGridOptions() {
 		this.gridOptions = {
 			defaultColDef: {
-				width: 130,
-				suppressMovable: true,
-				lockPosition: 'left',
-				sortable: true,
-				resizable: true,
-				filter: true,
+				// width: 130,
+				// suppressMovable: true,
+				// lockPosition: 'left',
+				// sortable: true,
+				// resizable: true,
+				// filter: true,
 				headerComponentParams: {
 					template:
 						'<div class="ag-cell-label-container" role="presentation">' +
@@ -112,7 +113,10 @@ export class AppComponent implements OnInit {
 		} as GridOptions;
 	}
 
-defaultColDef: ColDef = {
-  flex: 1,
-};
+  public defaultColDef: ColDef = {
+    sortable: true,
+    filter: true,
+    resizable: true,
+  };
+
 }
