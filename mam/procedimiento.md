@@ -1,9 +1,12 @@
 El Ayuntamiento envia un PDF con los datos mensuales.
-Cada Pdf mensual son 17-18 paginas.
-Las 15 primeras son las retribuciones salariales.
+Cada PDF mensual son 17-18 paginas.
+Las 14 ó 15 primeras son las retribuciones salariales.
 En la siguiente pagina viene el total de las retribuciones salariales.
+Creo una carpeta Excel y por debajo carpetas para cada mes donde guardo las paginas extraidas y demas ficheros.
 Extraigo las 15 primeras paginas con los datos de retribuciones salariales.
 Convierto  estas paginas extraidas a xlsx con Foxit.
+Grabo en su correspondiente mes.
+Cerrar el Excel de lo contrario no se puede subir a ChatGPT.
 Se lo paso a ChatGPT para que aplique el procedimiento guardado y genere un Excel limpio.
 La columna de euros la convierto a número, creo una columna a la derecha con el valor*1 y despues copio y sistituyo con los valores la comuna inicial de euros
 Comprobar que el total coincide con el valor de total de retribuciones salariales de la hoja 16
@@ -12,7 +15,8 @@ Convertir a json
 https://csvjson.com/csv2json
 
 
-
+Memoria actualizada
+El procedimiento ha sido guardado bajo el nombre procesar_archivo_financiero. Cuando necesites usarlo, solo indícame el nombre y el archivo a procesar. ¡Estará listo para su ejecución!
 
 
 C:\Users\Usuario\OneDrive\Ayuntamiento\Empleados\Estadística de nómina por AA.PP\2023\Excel
