@@ -8,11 +8,23 @@ Convierto  estas paginas extraidas a xlsx con Foxit.
 Grabo en su correspondiente mes.
 Cerrar el Excel de lo contrario no se puede subir a ChatGPT.
 Se lo paso a ChatGPT para que aplique el procedimiento guardado y genere un Excel limpio.
-La columna de euros la convierto a número, creo una columna a la derecha con el valor*1 y despues copio y sistituyo con los valores la comuna inicial de euros
+La columna de euros la convierto a número, creo una columna a la derecha con el valor*1 y despues copio y sustituyo con los valores la columna inicial de euros
+organico	programa	economico	descripcion	euros
+
 Comprobar que el total coincide con el valor de total de retribuciones salariales de la hoja 16
+Borrar el total
 Creo un fichero csv
-Convertir a json
-https://csvjson.com/csv2json
+
+En supabase.service.te
+Linea 17 cambiar mes en 
+const { error } = await this.supabase.from('nomina_aapp_2023_7').insert(data);
+!!!!!!!! GRABAR !!!!!!!!!!!!!!!!!!
+
+Recarga apfina NominasAyuntamienro
+Seleecinar csv creado
+
+
+
 
 
 Memoria actualizada
